@@ -1,6 +1,6 @@
 # Printfy 🖨️
 
-Printfy is a sophisticated solution designed to streamline the process of printing PDF documents on Android devices. Leveraging the robust capabilities of the PrintDocumentAdapter introduced in API level 19, Printfy offers seamless integration and unparalleled performance.
+Printfy is a simple yet powerful solution designed to streamline the process of printing PDF documents on Android devices. Leveraging the robust capabilities of the PrintDocumentAdapter introduced in API level 19, Printfy offers seamless integration and unparalleled performance.
 
 ## Features
 

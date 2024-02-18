@@ -12,5 +12,3 @@ Printfy is a simple yet powerful solution designed to streamline the process of 
 
 - 💻 **Compatibility**: Printfy is compatible with Android devices running API level 19 and above, ensuring widespread usability.
 
-> [!NOTE]
->  APK is yet to be upload, have patience 🍟
